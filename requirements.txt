@@ -1,4 +1,4 @@
-tornado~=6.1
+tornado~=6.5
 cryptography~=37.0.2
 asyncio~=3.4.3
 requests~=2.28.0
